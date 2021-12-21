@@ -5,9 +5,9 @@
 
 <p align="center">
 
-- 👼 My name is Abil Botz
+- 👼 My name is Bear Botz
 
-- 🗣️ I am 18 years old 
+- 🗣️ I am 21 years old 
 
 - 🔭 I am Not programmer
  
